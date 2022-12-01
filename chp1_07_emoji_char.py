@@ -1,0 +1,1 @@
+print("\U0001F602") #replace + by 3 0's
